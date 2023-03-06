@@ -1,0 +1,50 @@
+.complete,.pink,.trainee{
+   background-color: #de5d9e;
+   border-color: #de5d9e;
+   color: #fff;
+}
+.Urgent,.declined, .In-Active, .denied{
+   background-color: #fb1007;
+   border-color: #fb1007;
+   color: #fff;
+}
+.sent, .partially-paid, .permanent{
+   background-color: #B2D600;
+   border-color: #B2D600;
+   color: #fff;
+}
+.expired{
+   background-color: #000000;
+   border-color: #000000;
+   color: #fff;
+}
+.started,.approved,.accepted,.paid,.employed,.live,.Confirmed,.published{
+   background-color: #118704;
+   border-color: #118704;
+   color: #fff;
+}
+.High,.unpaid,.on-contract{
+   background-color: #fbaf05;
+   border-color: #fbaf05;
+   color: #fff;
+}
+.pending{
+   background-color: #49b6d6;
+   border-color: #49b6d6;
+   color: #fff;
+}
+.draft,.ongoing,.Working{
+   background-color: #7266ba;
+   border-color: #7266ba;
+   color: #fff;
+}
+.Low{
+   background-color: #f4f6f7;
+   border-color: #f4f6f7;
+   color: #fff;
+}
+
+.badge.active {
+   background: #30a605;
+}
+
