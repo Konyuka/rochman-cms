@@ -19,7 +19,7 @@
 									<div class="card-header border-0">
 										<div class="card-title text-center">
 											<div class="p-1">
-												<h1><img src="{!! asset('assets/favicon/android-icon-144x144.png') !!}" alt="LimitlessCMS" style="width:8%"> Wingu CMS</h1>
+												<h1>Tech Duka CMS</h1>
 											</div>
 										</div>
 										<h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2"><span>Login</span></h6>

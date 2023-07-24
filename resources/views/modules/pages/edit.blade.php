@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title','Pages Edit | Wingu CMS')
+@section('title','Pages Edit | Tech Duka CMS')
 @section('breadcrumb')
    <div class="content-header row">
       <div class="content-header-left col-md-6 col-12 mb-1 breadcrumb-new">

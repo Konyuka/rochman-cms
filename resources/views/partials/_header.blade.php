@@ -7,8 +7,7 @@
             </li>
             <li class="nav-item mr-auto">
                <a class="navbar-brand" href="{!! url('/') !!}">
-                  <img class="brand-logo" src="{!! asset('assets/favicon/android-icon-144x144.png') !!}" alt="LimitlessCMS" style="width:10%">
-                  <h3 class="brand-text">Wingu CMS</h3>
+                  <h3 class="brand-text">Tech Duka CMS</h3>
                </a>
             </li>
             <li class="nav-item d-none d-lg-block nav-toggle">

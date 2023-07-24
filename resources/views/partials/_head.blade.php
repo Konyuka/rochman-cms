@@ -2,9 +2,9 @@
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-   <meta name="description" content="LimitlessCMS">
-   <meta name="keywords" content="Wingu CMS">
-   <meta name="author" content="Blue tree agency">
+   <meta name="description" content="Tech Duka Content Management System">
+   <meta name="keywords" content="Tech Duka CMS">
+   <meta name="author" content="Michael Saiba">
    <meta name="csrf-token" content="{{ csrf_token() }}">
    <title>@yield('title')</title>
    <link rel="apple-touch-icon" href="{!! asset('assets/favicon/apple-icon-120.png') !!}">
@@ -19,6 +19,8 @@
 
    <!-- BEGIN: Theme CSS-->
    <link rel="stylesheet" type="text/css" href="{!! asset('assets/css/bootstrap.min.css') !!}">
+   {{-- <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.min.css') }}"> --}}
+
    <link rel="stylesheet" type="text/css" href="{!! asset('assets/css/bootstrap-extended.min.css') !!}">
    <link rel="stylesheet" type="text/css" href="{!! asset('assets/css/colors.min.css') !!}">
    <link rel="stylesheet" type="text/css" href="{!! asset('assets/css/components.min.css') !!}">
