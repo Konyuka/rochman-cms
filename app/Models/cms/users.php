@@ -8,3 +8,4 @@ class users extends Model
 {
     Protected $table = 'users';
 }
+ 
