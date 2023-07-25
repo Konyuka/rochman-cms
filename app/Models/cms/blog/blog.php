@@ -9,7 +9,7 @@ class blog extends Model
     Protected $table = 'blogs';
 
     public function tags(){
-        return $this->belongsToMany('App\Models\cms\blog\tag');
+        return $this->belongsToMany('App\Models\cms\blog\tag'); 
     }
 
     public function category_join(){

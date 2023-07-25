@@ -65,7 +65,7 @@
             <div class="card">
                <div class="card-body">
                   <div class="form-group">
-                     <label for="">Post Synopsis</label>
+                     <label for="">Post Excerpt</label>
                      {!! Form::textarea('synopsis',null,['class'=>'form-control', 'rows' =>9, 'placeholder'=>'synopsis' ]) !!}
                   </div>
                </div>
